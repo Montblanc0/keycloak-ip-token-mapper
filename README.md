@@ -3,7 +3,7 @@
 This is a Keycloak OIDC Protocol Mapper that adds the user's IP address to the token and/or to the access token response. The mapper retrieves the IP from the `UserSessionModel` and assigns it to a configurable token claim name.
 
 <p align="center">
-  <img src="https://ibb.co/Y42y6T89"><img src="https://i.ibb.co/9mnVJ32X/Screenshot-2025-03-16-225654.png" alt="IP Mapper configuration" width="380">
+  <img src="https://i.ibb.co/9mnVJ32X/Screenshot-2025-03-16-225654.png" alt="IP Mapper configuration" width="380">
 </p>
 
 ## Warning
